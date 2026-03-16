@@ -37,29 +37,43 @@ platforms serving tens of thousands of users. I'm not just a UI layer dev.
 
 ## 🚀 things i've shipped
 
+---
+
+## ✦ featured work
+
 <table>
-<tr>
-<td width="50%">
-
-### 🎨 [Sketch](https://github.com/dheeraj1717/Sketch)
-Real-time collaborative whiteboard
-- Custom **HTML5 Canvas engine** in TypeScript
-- **Sub-100ms** WebSocket sync across users  
-- Infinite pan, pinch-to-zoom, room management
-- Turborepo monorepo with independent deployments
-
-</td>
-<td width="50%">
-
-### 🚛 [Fleet Manager](https://github.com/dheeraj1717/Fleet-Manager)
-Multi-tenant fleet management SaaS
-- **Next.js + Prisma + PostgreSQL** stack
-- Automated billing, invoice generation, partial payments
-- Fuel tracking + driver performance analytics
-- Challan generation with tax calculations
-
-</td>
-</tr>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>🎨 <a href="https://github.com/dheeraj1717/Sketch">Sketch</a></h3>
+      <p>Real-time collaborative whiteboard for multi-user sketching with room management.</p>
+      <p>
+        <img src="https://img.shields.io/badge/WebSockets-black?style=flat-square&logo=socket.io"/>
+        <img src="https://img.shields.io/badge/Canvas_API-6366F1?style=flat-square"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white"/>
+      </p>
+      <ul>
+        <li>Custom <strong>HTML5 Canvas engine</strong> — infinite pan + pinch-to-zoom</li>
+        <li><strong>Sub-100ms</strong> WebSocket sync across all users</li>
+        <li>Monorepo with independent frontend, backend & WS deploys</li>
+      </ul>
+    </td>
+    <td valign="top" width="50%">
+      <h3>🚛 <a href="https://github.com/dheeraj1717/Fleet-Manager">Fleet Manager</a></h3>
+      <p>Multi-tenant fleet management SaaS with billing, tracking & driver analytics.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=prisma&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/SaaS-22c55e?style=flat-square"/>
+      </p>
+      <ul>
+        <li>Automated billing with <strong>invoice gen & partial payments</strong></li>
+        <li>Challan generation + hourly rate + tax calculations</li>
+        <li>Fuel expense tracking + driver performance monitoring</li>
+      </ul>
+    </td>
+  </tr>
 </table>
 
 ---
