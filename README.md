@@ -1,18 +1,122 @@
-# 💫 About Me:
-## 👋 Hi, I'm Dheeraj Jangid<br><br>I'm a **Full Stack Developer** passionate about building scalable web applications and solving complex engineering problems.<br><br>🎓 **B.Tech in Information Technology** from Government Engineering College Ajmer (CGPA: 8.2)<br><br>💻 Currently working as an **Associate Software Developer**, building large-scale multilingual platforms including an **LMS and Insurance CRM used by 20,000+ agents**.<br><br>### 🚀 What I Do<br><br>* Build **scalable full-stack applications**<br>* Design **clean frontend architectures with React / Next.js**<br>* Work with **TypeScript, Node.js, and modern web tooling**<br>* Implement **real-time systems using WebSockets**<br>* Write **maintainable and well-tested code**<br><br>### 🛠 Tech Stack<br><br>**Languages:**<br>TypeScript · JavaScript · C++<br><br>**Frontend:**<br>React · Next.js · Tailwind CSS · Vite<br><br>**Backend:**<br>Node.js · Prisma<br><br>**Databases:**<br>PostgreSQL · MySQL · MongoDB<br><br>**Tools:**<br>Git · Jest · Turborepo<br><br>### 📌 Featured Projects<br><br>**Sketch**<br>Real-time collaborative whiteboard with WebSockets, infinite canvas, and room-based collaboration.<br><br>**Fleet Manager**<br>Multi-tenant fleet management SaaS with automated billing, job tracking, and expense monitoring.<br><br>### 📈 Interests<br><br>* System Design<br>* Backend Architecture<br>* Scalable SaaS Applications<br>* Real-time Systems<br><br>### 🌐 Connect With Me<br><br>* GitHub: https://github.com/dheeraj1717<br>* Portfolio: https://dheeraj-jangid.vercel.app<br>* LinkedIn: https://linkedin.com/in/dheerajjangid1717<br>* LeetCode: https://leetcode.com/u/Dheeraj_Jangid/<br>
+<div align="center">
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=6366F1¢er=true&vCenter=true&width=600&lines=Hi+I'm+Dheeraj+Jangid+%F0%9F%91%8B;Full+Stack+Developer;React+%C2%B7+Next.js+%C2%B7+TypeScript;I+build+things+for+the+web." alt="Typing SVG" />
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dheerajjangid1717/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dheerajjangdi1717@gmail.com) 
+<br/>
 
-# 💻 Tech Stack:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=dheeraj1717&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=dheeraj1717&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dheeraj1717&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<p>
+  <a href="https://dheeraj-jangid.vercel.app"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=vercel&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/dheerajjangid1717"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/Dheeraj_Jangid/"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=flat-square&logo=leetcode&logoColor=black"/></a>
+  <a href="mailto:dheerajjangid1717@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=dheeraj1717&label=Profile+views&color=6366f1&style=flat-square" />
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=dheeraj1717&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## > whoami
+
+```ts
+const dheeraj = {
+  role:     "Full Stack Developer",
+  location: "Rajasthan, India 🇮🇳",
+  company:  "ThinkTech — building for 20,000+ insurance agents",
+  stack:    ["React", "Next.js", "TypeScript", "Node.js", "PostgreSQL"],
+  strengths: ["Real-time systems", "SaaS architecture", "Test-driven UI"],
+  currently: "Learning system design & backend at scale",
+  openTo:    "Exciting product companies",
+};
+```
+
+I care about **code that ships cleanly** — tested, typed, and readable.
+I've built a custom Canvas engine, a multi-tenant billing SaaS, and production
+platforms serving tens of thousands of users. I'm not just a UI layer dev.
+
+
+
+---
+
+## 🚀 things i've shipped
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎨 [Sketch](https://github.com/dheeraj1717/Sketch)
+Real-time collaborative whiteboard
+- Custom **HTML5 Canvas engine** in TypeScript
+- **Sub-100ms** WebSocket sync across users  
+- Infinite pan, pinch-to-zoom, room management
+- Turborepo monorepo with independent deployments
+
+</td>
+<td width="50%">
+
+### 🚛 [Fleet Manager](https://github.com/dheeraj1717/Fleet-Manager)
+Multi-tenant fleet management SaaS
+- **Next.js + Prisma + PostgreSQL** stack
+- Automated billing, invoice generation, partial payments
+- Fuel tracking + driver performance analytics
+- Challan generation with tax calculations
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠 tech stack
+
+**Languages**
+ 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+
+**Frontend**
+ 
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+
+**Backend & DB**
+ 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=prisma&logoColor=white)
+
+**Testing & Tooling**
+ 
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white)
+
+---
+
+## 📊 github stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=dheeraj1717&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=false" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dheeraj1717&layout=compact&theme=tokyonight&hide_border=true&count_private=true" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=dheeraj1717&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dheeraj1717&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
+---
+
+<div align="center">
+  <sub>✦ open to exciting roles in product companies — <a href="mailto:dheerajjangid1717@gmail.com">let's talk</a> ✦</sub>
+</div>
