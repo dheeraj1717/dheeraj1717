@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+## 👋 Hi, I'm Dheeraj Jangid<br><br>I'm a **Full Stack Developer** passionate about building scalable web applications and solving complex engineering problems.<br><br>🎓 **B.Tech in Information Technology** from Government Engineering College Ajmer (CGPA: 8.2)<br><br>💻 Currently working as an **Associate Software Developer**, building large-scale multilingual platforms including an **LMS and Insurance CRM used by 20,000+ agents**.<br><br>### 🚀 What I Do<br><br>* Build **scalable full-stack applications**<br>* Design **clean frontend architectures with React / Next.js**<br>* Work with **TypeScript, Node.js, and modern web tooling**<br>* Implement **real-time systems using WebSockets**<br>* Write **maintainable and well-tested code**<br><br>### 🛠 Tech Stack<br><br>**Languages:**<br>TypeScript · JavaScript · C++<br><br>**Frontend:**<br>React · Next.js · Tailwind CSS · Vite<br><br>**Backend:**<br>Node.js · Prisma<br><br>**Databases:**<br>PostgreSQL · MySQL · MongoDB<br><br>**Tools:**<br>Git · Jest · Turborepo<br><br>### 📌 Featured Projects<br><br>**Sketch**<br>Real-time collaborative whiteboard with WebSockets, infinite canvas, and room-based collaboration.<br><br>**Fleet Manager**<br>Multi-tenant fleet management SaaS with automated billing, job tracking, and expense monitoring.<br><br>### 📈 Interests<br><br>* System Design<br>* Backend Architecture<br>* Scalable SaaS Applications<br>* Real-time Systems<br><br>### 🌐 Connect With Me<br><br>* GitHub: https://github.com/dheeraj1717<br>* Portfolio: https://dheeraj-jangid.vercel.app<br>* LinkedIn: https://linkedin.com/in/dheerajjangid1717<br>* LeetCode: https://leetcode.com/u/Dheeraj_Jangid/<br>
 
-<!--
-**dheeraj1717/dheeraj1717** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dheerajjangid1717/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dheerajjangdi1717@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=dheeraj1717&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=dheeraj1717&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dheeraj1717&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=dheeraj1717&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
