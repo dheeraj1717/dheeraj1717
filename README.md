@@ -35,10 +35,6 @@ platforms serving tens of thousands of users. I'm not just a UI layer dev.
 
 ---
 
-## 🚀 things i've shipped
-
----
-
 ## ✦ featured work
 
 <table>
