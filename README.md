@@ -11,8 +11,6 @@
   <a href="mailto:dheerajjangid1717@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=dheeraj1717&label=Profile+views&color=6366f1&style=flat-square" />
-
 </div>
 
 ---
@@ -22,10 +20,8 @@
 ```ts
 const dheeraj = {
   role:     "Full Stack Developer",
-  location: "Rajasthan, India 🇮🇳",
   company:  "ThinkTech — building for 20,000+ insurance agents",
   stack:    ["React", "Next.js", "TypeScript", "Node.js", "PostgreSQL"],
-  strengths: ["Real-time systems", "SaaS architecture", "Test-driven UI"],
   currently: "Learning system design & backend at scale",
   openTo:    "Exciting product companies",
 };
