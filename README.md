@@ -98,25 +98,6 @@ Multi-tenant fleet management SaaS
 
 ---
 
-## 📊 github stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=dheeraj1717&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=false" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dheeraj1717&layout=compact&theme=tokyonight&hide_border=true&count_private=true" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=dheeraj1717&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dheeraj1717&theme=tokyo-night&hide_border=true&area=true" />
-
-</div>
-
----
-
 <div align="center">
   <sub>✦ open to exciting roles in product companies — <a href="mailto:dheerajjangid1717@gmail.com">let's talk</a> ✦</sub>
 </div>
