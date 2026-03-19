@@ -29,7 +29,7 @@ const dheeraj = {
 
 I care about **code that ships cleanly** — tested, typed, and readable.
 I've built a custom Canvas engine, a multi-tenant billing SaaS, and production
-platforms serving tens of thousands of users. I'm not just a UI layer dev.
+platforms serving tens of thousands of users.
 
 
 
